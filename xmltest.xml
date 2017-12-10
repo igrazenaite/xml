@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns:xsi="http://www.w3.org/TR/html4/"
+      xmlns="http://mano.lt">
+    <body>
+        html turinys
+        <manoHtml>
+            <nextbody>
+                mano turinys
+            </nextbody>
+        </manoHtml>
+    </body>
+</html>
